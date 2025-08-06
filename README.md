@@ -1,11 +1,10 @@
 # 👋 Hey, I'm Chandru T  
 **UI/UX Enthusiast | Web Developer | Problem Solver**  
 📍 Ulundurpet, Tamil Nadu | 🎓 B.Tech IT @ MIT, Anna University  
-
 📧 **Email**: [chandrupadhur@gmail.com](mailto:chandrupadhur@gmail.com)  
-🔗 **LinkedIn**: [/in/chandru-t](https://linkedin.com/in/chandru-t)  
-💻 **GitHub**: [@chandru-t](https://github.com/chandru-t)  
-🧠 **LeetCode**: [chandru-t](https://leetcode.com/chandru-t)  
+🔗 **LinkedIn**: [/in/chandru-t-31566228b](https://www.linkedin.com/in/chandru-t-31566228b/)  
+💻 **GitHub**: [@chandruthangadurai2005](https://github.com/chandruthangadurai2005)  
+🧠 **LeetCode**: [Chandrumit05](https://leetcode.com/u/Chandrumit05/) 
 
 ---
 
