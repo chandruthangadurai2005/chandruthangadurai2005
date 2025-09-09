@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Chandru T  
-**UI/UX Enthusiast | Web Developer | Problem Solver**  
+** Web Developer | Problem Solver**  
 📍 Ulundurpet, Tamil Nadu | 🎓 B.Tech IT @ MIT, Anna University  
 📧 **Email**: [chandrupadhur@gmail.com](mailto:chandrupadhur@gmail.com)  
 🔗 **LinkedIn**: [/in/chandru-t-31566228b](https://www.linkedin.com/in/chandru-t-31566228b/)  
